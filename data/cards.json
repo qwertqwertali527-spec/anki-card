@@ -1,0 +1,195 @@
+{
+  "deck_name": "English Vocabulary — عينة القاموس (Sample)",
+  "deck_description": "بطاقات عينة مبنية وفق مواصفات المشروع: الواجهة أمامية بالإنجليزية بالكامل، والخلفية تضم جميع المعاني العربية والتعاريف والمرادفات والأمثلة والمشتقات والصوت والصورة.",
+  "cards": [
+    {
+      "id": "W0001",
+      "word": "produce",
+      "type": "Word",
+      "pdf_page": "—",
+      "concrete": true,
+      "ipa_us": "/prəˈduːs/ (verb) · /ˈprɑːduːs/ (noun)",
+      "ipa_uk": "/prəˈdjuːs/ (verb) · /ˈprɒdjuːs/ (noun)",
+      "audio_us": "media/produce_us.mp3",
+      "audio_source": "TTS عالي الجودة (عينة) — في الإنتاج: Oxford + WordReference معاً",
+      "image": "media/produce.png",
+      "image_caption": "fresh produce — منتجات زراعية طازجة",
+      "pos": [
+        {
+          "label": "verb",
+          "definitions_en": [
+            "to make or manufacture something, especially in large quantities",
+            "to create or cause a result, feeling, or effect",
+            "to grow crops, fruit, or yield",
+            "to bring something out from somewhere and show it",
+            "to provide something that is needed, such as evidence or proof",
+            "to give birth to young (of animals)",
+            "to finance and manage the making of a film, play, or musical recording"
+          ]
+        },
+        {
+          "label": "noun",
+          "definitions_en": [
+            "things that have been grown or made, especially fresh fruit and vegetables"
+          ]
+        }
+      ],
+      "meanings_ar": {
+        "فعل (يُنتِج)": "يُنْتِج، يُصَنِّع، يُخْرِج، يُبْرِز، يُثْمِر، يُغِلّ، يُحْدِث، يُسَبِّب، يُولِّد، يُقَدِّم (دليلاً)، يَعْرِض، يَلِد (للحيوان)، يُنْتِج (عملاً فنياً)",
+        "اسم (مُنتَج زراعي)": "مُنْتَجَات زِرَاعِيَّة، مَحَاصِيل، غَلَّة"
+      },
+      "synonyms": ["manufacture", "make", "create", "generate", "yield", "bring about", "give rise to", "fabricate", "bear"],
+      "examples": [
+        {
+          "en": "The factory produces over 500 cars every day.",
+          "ar": "يُنتج المصنع أكثر من 500 سيارة يومياً.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "The region produces some of the finest olive oil in the world.",
+          "ar": "تُنتج المنطقة بعضاً من أجود زيت الزيتون في العالم.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "Stress can produce serious health problems.",
+          "ar": "يمكن أن يتسبب التوتر في مشاكل صحية خطيرة.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "He produced a letter from his pocket and handed it to me.",
+          "ar": "أخرج خطاباً من جيبه وناولني إياه.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "Fresh local produce is sold at the market every Saturday.",
+          "ar": "تُباع المنتجات الزراعية المحلية الطازجة في السوق كل سبت. (اسم)",
+          "source": "Reverso Context (محاكاة في العينة)"
+        }
+      ],
+      "word_family": [
+        {"form": "produce", "form_type": "verb / noun (base)", "def_en": "to make or grow something; agricultural products", "ar": "أنتجَ / منتجات زراعية"},
+        {"form": "produces", "form_type": "verb (3rd person singular present)", "def_en": "he/she/it produces", "ar": "يُنتج (المضارع مع الغائب المفرد)"},
+        {"form": "produced", "form_type": "verb (past & past participle)", "def_en": "made or manufactured in the past", "ar": "أنتَجَ / مُنْتَج (ماضي واسم مفعول)"},
+        {"form": "producing", "form_type": "verb (present participle)", "def_en": "in the process of making something", "ar": "جارٍ إنتاجه / أثناء الإنتاج"},
+        {"form": "product", "form_type": "noun", "def_en": "something that is made to be sold", "ar": "مُنْتَج"},
+        {"form": "products", "form_type": "noun (plural)", "def_en": "more than one product", "ar": "مُنْتَجَات"},
+        {"form": "producer", "form_type": "noun", "def_en": "a person or company that produces goods or films", "ar": "مُنْتِج (شخص أو شركة)"},
+        {"form": "producers", "form_type": "noun (plural)", "def_en": "more than one producer", "ar": "مُنْتِجُون"},
+        {"form": "production", "form_type": "noun", "def_en": "the process of making things; the amount produced", "ar": "إِنْتَاج / عَمَلِيَّة الإِنْتَاج"},
+        {"form": "productive", "form_type": "adjective", "def_en": "achieving a lot; yielding good results", "ar": "مُنْتِج، مُثْمِر"},
+        {"form": "productivity", "form_type": "noun", "def_en": "the rate at which work is completed or goods are produced", "ar": "إِنْتَاجِيَّة"},
+        {"form": "reproduction", "form_type": "noun", "def_en": "the biological process of producing new life; the act of copying", "ar": "تَكَاثُر / اِسْتِنْساخ، إِعَادَة إِنتَاج"}
+      ],
+      "notes": "ملاحظة نطق: الفعل على المقطع الثاني (proDUCE)، أما الاسم فعلى المقطع الأول (PROduce)."
+    },
+    {
+      "id": "W0002",
+      "word": "umbrella",
+      "type": "Word",
+      "pdf_page": "—",
+      "concrete": true,
+      "ipa_us": "/ʌmˈbrelə/",
+      "ipa_uk": "/ʌmˈbrelə/",
+      "audio_us": "media/umbrella_us.mp3",
+      "audio_source": "TTS عالي الجودة (عينة) — في الإنتاج: Oxford + WordReference معاً",
+      "image": "media/umbrella.png",
+      "image_caption": "an umbrella — مِظَلَّة",
+      "pos": [
+        {
+          "label": "noun",
+          "definitions_en": [
+            "a light device made of cloth on folding ribs around a stick, used for protection against rain",
+            "a parasol: a similar device used for protection against the sun",
+            "(figurative) an organization or structure that covers or includes many different groups"
+          ]
+        }
+      ],
+      "meanings_ar": {
+        "اسم": "مِظَلَّة (للمطر)، شَمْسِيَّة (للشمس)، (مجازاً) مِظَلَّة / إِطَار جَامِع"
+      },
+      "synonyms": ["parasol", "sunshade", "canopy", "brolly (BrE informal)", "gamp (old-fashioned)"],
+      "examples": [
+        {
+          "en": "She opened her umbrella when it started to rain.",
+          "ar": "فتحت مظلّتها عندما بدأ المطر.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "We sat under a big beach umbrella to escape the sun.",
+          "ar": "جلسنا تحت شمسيّة شاطئ كبيرة اتّقاءً للشمس.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "The charity works under the umbrella of a larger international organization.",
+          "ar": "تعمل الجمعيّة الخيريّة تحت مِظلّة منظّمة دوليّة أكبر. (مجازي)",
+          "source": "Reverso Context (محاكاة في العينة)"
+        }
+      ],
+      "word_family": [
+        {"form": "umbrella", "form_type": "noun (base)", "def_en": "a device for protection against rain or sun", "ar": "مِظَلَّة"},
+        {"form": "umbrellas", "form_type": "noun (plural)", "def_en": "more than one umbrella", "ar": "مِظَلَّات"}
+      ],
+      "notes": "كلمة جامدة قليلة المشتقات؛ تُذكر صيغة الجمع فقط، وهذا جزء من مواصفات المعالجة: توضيح انعدام المشتقات بدل تجاهلها."
+    },
+    {
+      "id": "P0001",
+      "word": "give up",
+      "type": "Phrasal Verb",
+      "pdf_page": "—",
+      "concrete": false,
+      "ipa_us": "/ˌɡɪv ˈʌp/",
+      "ipa_uk": "/ˌɡɪv ˈʌp/",
+      "audio_us": "media/give_up_us.mp3",
+      "audio_source": "TTS عالي الجودة (عينة) — في الإنتاج: Oxford + WordReference معاً",
+      "image": "",
+      "image_caption": "",
+      "pos": [
+        {
+          "label": "phrasal verb",
+          "definitions_en": [
+            "to stop trying to do something because you cannot succeed",
+            "to quit a habit, such as smoking",
+            "to stop doing something that you used to do",
+            "to surrender: to give yourself up to the police",
+            "to sacrifice or let somebody else have something that is yours"
+          ]
+        }
+      ],
+      "meanings_ar": {
+        "فعل مركّب": "يَسْتَسْلِم، يُقْلِع عن (عادة)، يَتَخَلَّى عن، يَتَوَقَّف عن، يُسَلِّم نفسه (give oneself up)، يُضَحِّي بِـ"
+      },
+      "synonyms": ["quit", "abandon", "surrender", "relinquish", "renounce", "kick (a habit)"],
+      "examples": [
+        {
+          "en": "He gave up smoking after twenty years.",
+          "ar": "أقلع عن التدخين بعد عشرين عاماً.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "Don't give up — you're almost there!",
+          "ar": "لا تستسلم! لقد اقتربت من الهدف.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "She gave up her job to look after her children.",
+          "ar": "تخلّت عن عملها لرعاية أطفالها.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        },
+        {
+          "en": "The fugitive gave himself up to the police.",
+          "ar": "سلّم الهارب نفسه للشرطة.",
+          "source": "Reverso Context (محاكاة في العينة)"
+        }
+      ],
+      "word_family": [
+        {"form": "give", "form_type": "verb (base)", "def_en": "to hand something to somebody", "ar": "يُعطي"},
+        {"form": "gives", "form_type": "verb (3rd person singular present)", "def_en": "he/she/it gives", "ar": "يُعطي (الغائب المفرد)"},
+        {"form": "gave", "form_type": "verb (past)", "def_en": "past of give", "ar": "أعطى (ماضي)"},
+        {"form": "given", "form_type": "verb (past participle)", "def_en": "used in perfect tenses", "ar": "مُعطى / اسم مفعول"},
+        {"form": "giving", "form_type": "verb (present participle)", "def_en": "in the process of giving", "ar": "جارٍ العطاء"},
+        {"form": "give-up", "form_type": "noun (informal)", "def_en": "an act of quitting (rare)", "ar": "اِسْتِسْلام (نادر الاستعمال)"}
+      ],
+      "notes": "الأفعال المركّبة ترث تصريف الفعل الأصلي (give)، ويُشار إلى ذلك في البطاقة بدل تكرار كل التصريفات."
+    }
+  ]
+}
